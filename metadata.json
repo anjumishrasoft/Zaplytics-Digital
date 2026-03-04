@@ -1,0 +1,7 @@
+{
+  "name": "Zaplytics Digital",
+  "description": "A high-performance marketing, analytics, and automation agency website built for Zaplytics Digital, featuring modern UI/UX, responsive design, and integrated lead generation forms.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
